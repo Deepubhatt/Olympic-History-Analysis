@@ -6,7 +6,7 @@ In this project, I analyzed the historical data from the modern Olympic Games to
 
 # Dataset
 
-The “120 Years of Olympic History” dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?select=noc_regions.csv). It contains comprehensive historical data on the modern Olympic Games, spanning from the inaugural Athens 1896 Olympics to Rio 2016.
+The "120 Years of Olympic History" dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?select=noc_regions.csv). It contains comprehensive historical data on the modern Olympic Games, spanning from the inaugural Athens 1896 Olympics to Rio 2016.
 
 Each row in the dataset represents an individual athlete competing in a specific event and includes details such as the athlete’s name, age, sex, country, medal, and more.
 
